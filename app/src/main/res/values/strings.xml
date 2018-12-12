@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PresidentSubmission</string>
+    <string name="name">Name</string>
+    <string name="remarks">Remarks</string>
+    <string name="title">Title</string>
+    <string name="tahun">Tahun</string>
+    <string name="developer">Developer</string>
+    <string name="version">Version</string>
+    <string name="namanya">Nama</string>
+    <string name="usia">Usia</string>
+    <string name="asal">Asal</string>
+</resources>
